@@ -10,8 +10,8 @@ int main() {
 
 
 int main() {
-    int a = 5;
-    int b = 10;
+    int a = 7;
+    int b = 2;
     int sum = a + b;
 
     printf("The sum of %d and %d is: %d\n", a, b, sum);
